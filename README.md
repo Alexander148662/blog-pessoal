@@ -163,7 +163,7 @@ footer {
         <div class="container">
             <h2>Sobre Mim</h2>
             <div class="sobre-conteudo">
-                <img src="minha.png" alt="Minha Foto">
+                <img src="https://github.com/Alexander148662/blog-pessoal/issues/1#issue-2949997751" alt="Minha Foto">
                 <p><b>Olá! Meu nome é Alexandre Freancisco Adula. Sou apaixonado por tecnologia, viagens, fotografia e, claro, escrever sobre minha vida. Neste blog, compartilho minhas experiências, aventuras e aprendizados. Espero que você se inspire e se divirta enquanto lê!</b></p>
             </div>
         </div>
